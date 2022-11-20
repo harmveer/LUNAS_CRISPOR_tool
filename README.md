@@ -7,3 +7,5 @@ Output comma separated file (.csv) is saved in same directory as inputFile, name
     Examples:
     LUNAS_CRISPOR_tool.py SARS-CoV-2_Orf1a_guides.tsv
     LUNAS_CRISPOR_tool.py SARS-CoV-2_Orf1a_guides.tsv --search_range 100 400
+    
+LUNAS preprint: https://www.biorxiv.org/content/10.1101/2022.09.12.507659v1
